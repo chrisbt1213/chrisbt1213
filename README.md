@@ -1,6 +1,6 @@
-# <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Hey there, nice to see you! :-)<br>
+# <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Hey there!<br>
 
-### Welcome to my page. I'm Christian, a Shopify Web-Developer from the <img src="./united-states.png" width="13">US.
+### I'm Christian, a Shopify Web-Developer from the <img src="./united-states.png" width="13">US.
 
 
 ## 🛠️ Languages and Tools I work with:
